@@ -1,4 +1,4 @@
 node_modules/
 .env
-.jpg
-.1
+*.jpg
+*.1
